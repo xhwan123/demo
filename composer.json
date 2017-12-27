@@ -1,0 +1,14 @@
+{
+    "name": "xhwan123/demo",
+    "description": "xhwan123/demo",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xhwan123",
+            "email": "275657684@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
